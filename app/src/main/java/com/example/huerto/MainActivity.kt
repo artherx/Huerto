@@ -10,7 +10,7 @@ import com.google.firebase.ktx.Firebase
 import kotlin.math.log
 
 class MainActivity : AppCompatActivity() {
-
+//asdasdasdasd
     val db = Firebase.firestore
 
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -30,7 +30,6 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
-                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a49b242e4e329c42be51302ea9f00db7/transformed/firebase-firestore-ktx-24.4.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c55613d174f302d0a44c7a507ad09b69/transformed/firebase-auth-ktx-21.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b37131a37a25b97a5159beabc3787527/transformed/firebase-common-ktx-20.3.0-api.jar</arg>
