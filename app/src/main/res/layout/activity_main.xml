@@ -10,10 +10,10 @@
         android:id="@+id/textView"
         android:layout_width="149dp"
         android:layout_height="89dp"
-        android:layout_marginTop="152dp"
+        android:layout_marginTop="460dp"
         android:text="Hola mundo"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintHorizontal_bias="0.538"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
